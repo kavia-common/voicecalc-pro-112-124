@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ThemeOverlay.MaterialComponents.ActionBar" parent="Theme.MaterialComponents">
+        <!-- Minimal overlay to satisfy references if encountered by libraries -->
+    </style>
+</resources>

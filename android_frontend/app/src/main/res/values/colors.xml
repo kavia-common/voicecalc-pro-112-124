@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1976D2</color>
+    <color name="secondary">#424242</color>
+    <color name="accent">#FF4081</color>
+    <!-- Base declaration to satisfy lint across qualifiers -->
+    <color name="secondaryDark">#2E2E2E</color>
+
+    <!-- Colors used by other resources -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Launcher icon background color -->
+    <color name="ic_launcher_background">#FFFFFF</color>
+</resources>

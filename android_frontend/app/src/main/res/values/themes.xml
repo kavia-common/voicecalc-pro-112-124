@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Single AppCompat theme used by the app -->
+    <style name="Theme.VoiceCalc" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary</item>
+        <item name="colorAccent">@color/accent</item>
+    </style>
+
+    <!-- Fallback alias to neutralize any unexpected references -->
+    <style name="Theme.MaterialComponents" parent="Theme.VoiceCalc" />
+</resources>

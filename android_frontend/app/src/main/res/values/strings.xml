@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VoiceCalc Pro</string>
+    <string name="input_hint">Type an expression or use the microphone…</string>
+    <string name="transcription_placeholder">Transcription will appear here…</string>
+    <string name="mic_desc">Voice input</string>
+    <string name="nav_open_drawer">Open navigation drawer</string>
+    <string name="nav_close_drawer">Close navigation drawer</string>
+    <string name="menu_calculator">Calculator</string>
+    <string name="menu_history">History</string>
+    <string name="empty_expression">Please enter an expression</string>
+    <string name="speech_not_available">Speech recognition not available</string>
+    <string name="permission_denied">Microphone permission denied</string>
+    <string name="speech_error_message">Speech error: %1$s</string>
+    <string name="speech_error_generic">Speech error code: %1$d</string>
+    <string name="no_transcription">No transcription</string>
+    <string name="error_prefix">Error: %1$s</string>
+    <string name="env_missing">Missing environment variable: %1$s</string>
+    <string name="listening">Listening…</string>
+    <string name="history_title">History</string>
+    <string name="clear">CLEAR</string>
+    <string name="del">DEL</string>
+</resources>
